@@ -24,8 +24,8 @@
         "phpunit/phpunit": "^9.5"
     },
     "require": {
-        "php": ">=7.3.0",
-        "guzzlehttp/guzzle": "^7.4"
+        "php": ">=7.4.0",
+        "guzzlehttp/guzzle": ">=6.5.5"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
