@@ -3,6 +3,7 @@
     "description": "package to fetch actual datetime",
     "keywords": ["package", "datetime", "datetime fetching"],
     "type": "package",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Pete\\Timeteller\\": "src/"
